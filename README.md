@@ -37,8 +37,9 @@ Puedes instalar las dependencias en tu entorno local con:
 
 ```bash
 pip install pandas matplotlib seaborn
+```
 
-
+---
 
 ## 📓 Sobre el Notebook
 
@@ -52,6 +53,7 @@ El archivo `analisis_tiendas.ipynb` contiene todo el flujo de trabajo:
 
 No es necesario ejecutar scripts adicionales: todo está integrado en el notebook.
 
+---
 
 ## 🙋 Sobre mí
 
@@ -61,6 +63,7 @@ Este proyecto fue desarrollado como parte de mi formación práctica y está ori
 
 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/) o por correo si deseas saber más sobre mi trabajo.
 
+---
 
 ## 🙏 Agradecimientos
 
@@ -69,4 +72,7 @@ Gracias por tomarte el tiempo de revisar este proyecto.
 Este análisis fue realizado como parte de una actividad formativa para aplicar técnicas de análisis exploratorio de datos, visualización y toma de decisiones basadas en evidencia, gracias al apoyo y el programa Oracle One con Alura.
 
 ¡Espero que te resulte útil o inspirador para tus propios proyectos!
+
+```
+
 ```
